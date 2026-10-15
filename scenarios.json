@@ -1,0 +1,1162 @@
+[
+  {
+    "id": 1,
+    "category": "Copyright fundamentals",
+    "title": "A story appears on a website without permission",
+    "briefing": "A writer finds their original story copied on a public website.",
+    "options": [
+      {
+        "text": "Record the URL, date, screenshots and details of the work, then review reporting options.",
+        "correct": true,
+        "feedback": "Documentation helps describe what was observed and supports a responsible report."
+      },
+      {
+        "text": "Post the website owner's private details online.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Public availability does not automatically grant permission to reproduce a work."
+  },
+  {
+    "id": 2,
+    "category": "Copyright fundamentals",
+    "title": "Credit is not permission",
+    "briefing": "A friend says crediting a musician means anyone is free to repost a song.",
+    "options": [
+      {
+        "text": "Explain that attribution does not automatically grant permission.",
+        "correct": true,
+        "feedback": "Attribution and authorisation are different. Some uses require permission, while exceptions depend on the law and facts."
+      },
+      {
+        "text": "Tell them credit always replaces permission.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Check the licence or obtain required permission before reuse."
+  },
+  {
+    "id": 3,
+    "category": "Copyright fundamentals",
+    "title": "Using a song in a promotional video",
+    "briefing": "A student wants to include a full commercial song in a public promotional video.",
+    "options": [
+      {
+        "text": "Check the applicable licence and obtain permissions where required.",
+        "correct": true,
+        "feedback": "The planned use and relevant rights should be checked before publication."
+      },
+      {
+        "text": "Assume every educational or promotional use is exempt.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Copyright exceptions depend on the law and circumstances."
+  },
+  {
+    "id": 4,
+    "category": "Copyright fundamentals",
+    "title": "Two similar drawings",
+    "briefing": "An artist sees another drawing similar to their own and alleges copying.",
+    "options": [
+      {
+        "text": "Review evidence about creation, access, similarities and applicable law.",
+        "correct": true,
+        "feedback": "Similarity may raise a question, but a conclusion requires assessment of relevant facts and law."
+      },
+      {
+        "text": "Assume similarity alone always proves copying.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Do not treat an allegation as an established legal conclusion."
+  },
+  {
+    "id": 5,
+    "category": "Copyright fundamentals",
+    "title": "Proving when a work was created",
+    "briefing": "A creator wants records to support a claim about when a work was made.",
+    "options": [
+      {
+        "text": "Keep dated drafts, source files, contracts and relevant correspondence.",
+        "correct": true,
+        "feedback": "Organised records help document a work's history and rights arrangements."
+      },
+      {
+        "text": "Delete drafts after publishing.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Keep clear records of creation and rights agreements."
+  },
+  {
+    "id": 6,
+    "category": "Music and sound recordings",
+    "title": "A song appears in a Telegram channel",
+    "briefing": "A musician finds their track shared in a public Telegram channel without permission.",
+    "options": [
+      {
+        "text": "Preserve the channel details, post link, date and available evidence.",
+        "correct": true,
+        "feedback": "Documenting the material helps support a clear report without escalating the situation."
+      },
+      {
+        "text": "Threaten channel members.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Record relevant channel and post details safely."
+  },
+  {
+    "id": 7,
+    "category": "Music and sound recordings",
+    "title": "DJ playing a commercial recording",
+    "briefing": "A DJ plans to use a commercial recording at a ticketed event.",
+    "options": [
+      {
+        "text": "Check relevant permissions, licences and event arrangements.",
+        "correct": true,
+        "feedback": "Buying a copy does not automatically cover every public performance or other use."
+      },
+      {
+        "text": "Assume buying a track covers every public use.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Different uses of music might involve different rights and licences."
+  },
+  {
+    "id": 8,
+    "category": "Music and sound recordings",
+    "title": "Dispute over a recording",
+    "briefing": "A producer and singer disagree about ownership of a recording.",
+    "options": [
+      {
+        "text": "Review relevant agreements, contributions, licences and applicable law.",
+        "correct": true,
+        "feedback": "Ownership depends on the facts, agreements and legal framework."
+      },
+      {
+        "text": "Decide ownership based only on stream counts.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Musical works and sound recordings involve distinct rights and relationships."
+  },
+  {
+    "id": 9,
+    "category": "Music and sound recordings",
+    "title": "Trending song in a sponsored advert",
+    "briefing": "A creator wants a trending song in a paid brand campaign.",
+    "options": [
+      {
+        "text": "Check platform licence terms and permissions for commercial use.",
+        "correct": true,
+        "feedback": "Permissions might be limited by platform, account type or purpose."
+      },
+      {
+        "text": "Assume a platform music library permits every commercial use.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Check licence terms for the intended use."
+  },
+  {
+    "id": 10,
+    "category": "Music and sound recordings",
+    "title": "Music sold on an unfamiliar website",
+    "briefing": "A rights holder finds a song listed for sale on an unfamiliar website.",
+    "options": [
+      {
+        "text": "Record relevant URLs, listing details, dates and rights-related records.",
+        "correct": true,
+        "feedback": "Specific, verifiable information helps a recipient assess the report."
+      },
+      {
+        "text": "Demand immediate punishment without providing details.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Separate observed facts from assumptions."
+  },
+  {
+    "id": 11,
+    "category": "Film and video piracy",
+    "title": "A film appears on a streaming website",
+    "briefing": "A filmmaker sees their full film offered on an unfamiliar website.",
+    "options": [
+      {
+        "text": "Save the URL, screenshots, date and relevant page details.",
+        "correct": true,
+        "feedback": "Preserving accessible evidence is a sensible initial step; spreading the link might increase traffic."
+      },
+      {
+        "text": "Share the site widely to expose it.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Document the observation before the page changes where safe and lawful."
+  },
+  {
+    "id": 12,
+    "category": "Film and video piracy",
+    "title": "Unclear streaming authorisation",
+    "briefing": "A site streams a film, but the user does not know whether it has permission.",
+    "options": [
+      {
+        "text": "Treat it as a concern to assess and check reliable information about authorisation.",
+        "correct": true,
+        "feedback": "A site's appearance alone does not establish its authorisation status."
+      },
+      {
+        "text": "Declare the website definitely infringing based on appearance.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Distinguish suspicion from a verified finding."
+  },
+  {
+    "id": 13,
+    "category": "Film and video piracy",
+    "title": "Misleading title on a video platform",
+    "briefing": "A film appears on a video platform under a misleading title.",
+    "options": [
+      {
+        "text": "Record the exact URL, channel details, title, date and screenshots.",
+        "correct": true,
+        "feedback": "Specific details help identify the content being reported."
+      },
+      {
+        "text": "Use only the number of comments as evidence.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Keep evidence tied to the content and its online location."
+  },
+  {
+    "id": 14,
+    "category": "Film and video piracy",
+    "title": "Planning a public film screening",
+    "briefing": "A community organiser wants to screen a commercial film publicly.",
+    "options": [
+      {
+        "text": "Check whether the screening is covered by a suitable licence or permission.",
+        "correct": true,
+        "feedback": "Public screening rights might differ from ordinary personal viewing."
+      },
+      {
+        "text": "Assume a streaming subscription covers every venue.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Check permissions before organising a public screening."
+  },
+  {
+    "id": 15,
+    "category": "Film and video piracy",
+    "title": "Film found on a file-sharing site",
+    "briefing": "A person finds a copied film on a file-sharing site.",
+    "options": [
+      {
+        "text": "Record listing details and report through an appropriate channel.",
+        "correct": true,
+        "feedback": "A responsible report documents the observation without spreading the material."
+      },
+      {
+        "text": "Download and redistribute the file to collect more views.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Avoid unnecessary reproduction or redistribution of suspected infringing content."
+  },
+  {
+    "id": 16,
+    "category": "Websites, streaming and social platforms",
+    "title": "A site offers thousands of new films",
+    "briefing": "A website offers many new films without clear licensing information.",
+    "options": [
+      {
+        "text": "Treat the signs as reasons for further assessment, not proof by themselves.",
+        "correct": true,
+        "feedback": "Multiple indicators might warrant assessment but do not independently prove infringement."
+      },
+      {
+        "text": "Declare every film on the site illegal immediately.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Use verifiable indicators and avoid sweeping conclusions."
+  },
+  {
+    "id": 17,
+    "category": "Websites, streaming and social platforms",
+    "title": "Reporting content on a social platform",
+    "briefing": "A platform provides an official copyright reporting option.",
+    "options": [
+      {
+        "text": "Review the process and submit accurate, relevant information.",
+        "correct": true,
+        "feedback": "Use the official process and provide truthful details."
+      },
+      {
+        "text": "Submit false claims against unrelated accounts.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Use verified reporting routes and accurate claims."
+  },
+  {
+    "id": 18,
+    "category": "Websites, streaming and social platforms",
+    "title": "A suspected site changes its address",
+    "briefing": "A suspected piracy website moves to a new domain.",
+    "options": [
+      {
+        "text": "Document the new address and any verifiable connection to the earlier observation.",
+        "correct": true,
+        "feedback": "Connections between sites should be supported by evidence."
+      },
+      {
+        "text": "Assume the same operator without evidence.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Record verifiable changes without making unsupported conclusions."
+  },
+  {
+    "id": 19,
+    "category": "Websites, streaming and social platforms",
+    "title": "Unknown extension promises paid films free",
+    "briefing": "A browser extension promises free access to paid films.",
+    "options": [
+      {
+        "text": "Check the source, requested permissions and legitimacy before installing.",
+        "correct": true,
+        "feedback": "Unknown extensions might expose users to malware or credential theft."
+      },
+      {
+        "text": "Disable security warnings to install it.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Piracy offers might create cybersecurity and privacy risks."
+  },
+  {
+    "id": 20,
+    "category": "Websites, streaming and social platforms",
+    "title": "Unclear streaming service payment request",
+    "briefing": "A service asks for payment but provides no clear company identity or terms.",
+    "options": [
+      {
+        "text": "Check legitimacy, terms and payment safety before proceeding.",
+        "correct": true,
+        "feedback": "A secure connection does not prove a service has rights to the content."
+      },
+      {
+        "text": "Assume a padlock icon proves copyright authorisation.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Website security and copyright authorisation are different questions."
+  },
+  {
+    "id": 21,
+    "category": "Licensing, ownership and permissions",
+    "title": "Image found through a search engine",
+    "briefing": "A business wants to use a search-engine image in an advert.",
+    "options": [
+      {
+        "text": "Check the licence and obtain permission if required for the planned use.",
+        "correct": true,
+        "feedback": "Search results do not automatically grant commercial reuse rights."
+      },
+      {
+        "text": "Credit the photographer and assume commercial use is permitted.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Check the source and licence for the intended use."
+  },
+  {
+    "id": 22,
+    "category": "Licensing, ownership and permissions",
+    "title": "Client pays for a logo",
+    "briefing": "A client pays a designer to create a logo.",
+    "options": [
+      {
+        "text": "Check the written agreement covering ownership, permitted use and any transfer or licence.",
+        "correct": true,
+        "feedback": "Payment alone might not answer all ownership and usage questions."
+      },
+      {
+        "text": "Assume payment automatically settles every rights question.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Put important rights arrangements in clear written terms."
+  },
+  {
+    "id": 23,
+    "category": "Licensing, ownership and permissions",
+    "title": "Image licence for a new campaign",
+    "briefing": "A licence permits an image on one website; the user wants it in a national campaign.",
+    "options": [
+      {
+        "text": "Check whether the licence covers the new medium, purpose, territory and duration.",
+        "correct": true,
+        "feedback": "Licences often have conditions and limits."
+      },
+      {
+        "text": "Assume every licence covers every use.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Read licence scope before expanding a use."
+  },
+  {
+    "id": 24,
+    "category": "Licensing, ownership and permissions",
+    "title": "Uploading a band recording",
+    "briefing": "A band member wants to upload a recording featuring other performers.",
+    "options": [
+      {
+        "text": "Check relevant agreements and permissions for the recording and contributions.",
+        "correct": true,
+        "feedback": "Several people or rights holders might have relevant interests."
+      },
+      {
+        "text": "Assume uploading the file means owning all rights.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Confirm the necessary rights before distribution."
+  },
+  {
+    "id": 25,
+    "category": "Licensing, ownership and permissions",
+    "title": "Using a popular brand logo",
+    "briefing": "A company wants a popular brand's logo in a campaign.",
+    "options": [
+      {
+        "text": "Check relevant trademark and other permissions and avoid implying endorsement without authority.",
+        "correct": true,
+        "feedback": "Brand use might raise trademark, licensing or misleading-endorsement issues."
+      },
+      {
+        "text": "Assume logos are free because they are visible online.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Copyright, trademark and branding issues are distinct."
+  },
+  {
+    "id": 26,
+    "category": "Evidence preservation and documentation",
+    "title": "A page might disappear",
+    "briefing": "A creator finds suspected infringement and fears the page will disappear.",
+    "options": [
+      {
+        "text": "Record the URL, date and time, screenshots and content details.",
+        "correct": true,
+        "feedback": "Contemporaneous records help document what was observed and when."
+      },
+      {
+        "text": "Rely only on memory.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Keep evidence accurate, contextualised and unaltered."
+  },
+  {
+    "id": 27,
+    "category": "Evidence preservation and documentation",
+    "title": "Screenshot has no URL",
+    "briefing": "A screenshot does not show the website address.",
+    "options": [
+      {
+        "text": "Keep the screenshot and record the corresponding URL and capture date separately.",
+        "correct": true,
+        "feedback": "Supplementary notes provide context missing from an image."
+      },
+      {
+        "text": "Invent a plausible URL.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Document gaps honestly rather than filling them with assumptions."
+  },
+  {
+    "id": 28,
+    "category": "Evidence preservation and documentation",
+    "title": "Original work and alleged copy",
+    "briefing": "A creator sends an original work and an alleged copy to a reporting team.",
+    "options": [
+      {
+        "text": "Label the files clearly and document where each came from.",
+        "correct": true,
+        "feedback": "Clear provenance helps others assess the materials."
+      },
+      {
+        "text": "Overwrite the original with an edited comparison.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Maintain clear records of evidence sources and handling."
+  },
+  {
+    "id": 29,
+    "category": "Evidence preservation and documentation",
+    "title": "Screenshot contains unrelated personal details",
+    "briefing": "A report includes unrelated personal information in a screenshot.",
+    "options": [
+      {
+        "text": "Limit unnecessary sharing and handle information securely while preserving relevant evidence.",
+        "correct": true,
+        "feedback": "Collect and share only what is reasonably needed, following applicable procedures."
+      },
+      {
+        "text": "Forward the screenshot to every contact.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Protect privacy while preserving relevant records."
+  },
+  {
+    "id": 30,
+    "category": "Evidence preservation and documentation",
+    "title": "Email requests a password about a piracy claim",
+    "briefing": "A suspicious email claims a film has been pirated and asks for a password.",
+    "options": [
+      {
+        "text": "Avoid unknown links and credential sharing; verify the sender through a trusted route.",
+        "correct": true,
+        "feedback": "Copyright-related messages might be used for phishing or impersonation."
+      },
+      {
+        "text": "Send passwords to prove ownership.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Protect credentials and verify unexpected requests."
+  },
+  {
+    "id": 31,
+    "category": "Reporting and responsible response",
+    "title": "Preparing a piracy report",
+    "briefing": "A creator is ready to report suspected piracy.",
+    "options": [
+      {
+        "text": "Provide a clear description, relevant URLs, dates and available rights information.",
+        "correct": true,
+        "feedback": "A factual, specific report helps the recipient assess the issue."
+      },
+      {
+        "text": "Send insults and unsupported accusations.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Separate observed facts from assumptions and opinions."
+  },
+  {
+    "id": 32,
+    "category": "Reporting and responsible response",
+    "title": "Uncertain about ownership",
+    "briefing": "A person is unsure whether they own rights in a copied work.",
+    "options": [
+      {
+        "text": "Explain their relationship to the work honestly and gather relevant agreements or records.",
+        "correct": true,
+        "feedback": "The reporting route might require clarification of authority or rights."
+      },
+      {
+        "text": "Claim ownership anyway.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Be clear about whether you own the rights or report for another person."
+  },
+  {
+    "id": 33,
+    "category": "Reporting and responsible response",
+    "title": "Platform says report is incomplete",
+    "briefing": "A platform rejects a report because required details are missing.",
+    "options": [
+      {
+        "text": "Review the requirements and submit accurate missing information where appropriate.",
+        "correct": true,
+        "feedback": "Addressing the stated gap is more useful than repeating an incomplete report."
+      },
+      {
+        "text": "Submit fabricated documents.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Follow the process and keep records of communications."
+  },
+  {
+    "id": 34,
+    "category": "Reporting and responsible response",
+    "title": "Reporting to S.T.O.P",
+    "briefing": "A stakeholder wants to report suspected piracy to S.T.O.P.",
+    "options": [
+      {
+        "text": "Use the official reporting route and provide accurate, relevant information.",
+        "correct": true,
+        "feedback": "An official channel helps direct information appropriately."
+      },
+      {
+        "text": "Send confidential evidence to random social accounts.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Verify official contact details before submitting information."
+  },
+  {
+    "id": 35,
+    "category": "Reporting and responsible response",
+    "title": "No immediate reply to a report",
+    "briefing": "A reporter receives no immediate response after submitting a report.",
+    "options": [
+      {
+        "text": "Keep the submission reference and follow the published enquiry process.",
+        "correct": true,
+        "feedback": "A submitted report does not establish the allegation."
+      },
+      {
+        "text": "Assume the report proves guilt.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Use documented channels and keep follow-up factual."
+  },
+  {
+    "id": 36,
+    "category": "Digital safety and stakeholder cooperation",
+    "title": "Offer to pay for internal information",
+    "briefing": "A suspected piracy group offers money for internal enforcement information.",
+    "options": [
+      {
+        "text": "Decline and report the approach through the appropriate organisational channel.",
+        "correct": true,
+        "feedback": "Confidential information must be handled under applicable policy and law."
+      },
+      {
+        "text": "Share information in exchange for payment.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Protect confidential information and use authorised escalation routes."
+  },
+  {
+    "id": 37,
+    "category": "Digital safety and stakeholder cooperation",
+    "title": "Unknown app required to watch a film",
+    "briefing": "A website asks users to install an unknown app to watch a pirated film.",
+    "options": [
+      {
+        "text": "Avoid installing it and use trusted, authorised services.",
+        "correct": true,
+        "feedback": "Unknown apps might create security, privacy and legal risks."
+      },
+      {
+        "text": "Disable device security to install it.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Avoid unverified downloads and protect your device."
+  },
+  {
+    "id": 38,
+    "category": "Digital safety and stakeholder cooperation",
+    "title": "Message from someone claiming to be an NCC officer",
+    "briefing": "A person requests sensitive documents through a personal account while claiming to be an official.",
+    "options": [
+      {
+        "text": "Verify the person's identity and request through an official channel before sharing.",
+        "correct": true,
+        "feedback": "Independent verification helps prevent impersonation and accidental disclosure."
+      },
+      {
+        "text": "Send all documents immediately.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Verify official requests and protect sensitive information."
+  },
+  {
+    "id": 39,
+    "category": "Digital safety and stakeholder cooperation",
+    "title": "Public awareness about a suspected site",
+    "briefing": "A creator group wants to raise awareness about a suspected piracy site.",
+    "options": [
+      {
+        "text": "Discuss verified facts, avoid unsupported personal accusations and direct people to lawful sources.",
+        "correct": true,
+        "feedback": "Responsible communication raises awareness without spreading unverified claims or personal data."
+      },
+      {
+        "text": "Encourage members to harass the suspected operator.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Avoid harassment, doxxing and unnecessary redistribution."
+  },
+  {
+    "id": 40,
+    "category": "Digital safety and stakeholder cooperation",
+    "title": "Asked to break into a website account",
+    "briefing": "A stakeholder is asked to investigate by trying to break into an account.",
+    "options": [
+      {
+        "text": "Decline unauthorised access and refer the matter to authorised professionals.",
+        "correct": true,
+        "feedback": "Unauthorised access is not an appropriate response."
+      },
+      {
+        "text": "Try common passwords.",
+        "correct": false,
+        "feedback": "This response skips careful assessment, creates avoidable risks or relies on an unsupported assumption."
+      },
+      {
+        "text": "Assume the allegation is proven and take public action immediately.",
+        "correct": false,
+        "feedback": "An allegation is not the same as an established finding. Verify facts and follow an appropriate process."
+      },
+      {
+        "text": "Share the material widely and ask strangers to decide what happened.",
+        "correct": false,
+        "feedback": "Uncontrolled sharing might spread suspected infringing material or expose private information. Use appropriate channels."
+      }
+    ],
+    "lesson": "Report concerns through proper channels, not unauthorised technical action."
+  }
+]
